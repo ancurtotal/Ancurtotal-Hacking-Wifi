@@ -17,10 +17,10 @@ $ git clone https://github.com/ancurtotal/Ancurtotal-Hacking-Wifi
 ```MENJALANKANNYA```
 
 $ cd Ancurtotal-Hacking-Wifi
-$ chmod +x Ancurtotal-Hacking-Wifi.sh
-$ sh Ancurtotal-Hacking-Wifi.sh
+$ chmod +x Ancurtotal-Wifi
+$ ./AncurtotalWifi
 
-username : AncurtotalHackingWifi
+username : AncurtotalWifi
 password : SODC
 
 EKAY ANCURTOTAL
