@@ -18,10 +18,11 @@ $ git clone https://github.com/ancurtotal/Ancurtotal-Hacking-Wifi
 
 $ cd Ancurtotal-Hacking-Wifi
 $ chmod +x Ancurtotal-Wifi
-$ ./AncurtotalWifi
+$ sh Ancurtotal-Wifi.sh
 
 username : AncurtotalWifi
-password : SODC
+password : EKAY
 
-EKAY ANCURTOTAL
-SCARY OF DEMON CYBER
+   EKAY ANCURTOTAL
+ANCURTOTAL CYBER TEAM
+
