@@ -15,7 +15,7 @@ def main():
 		pwd = raw_input("password : ")
 
 		if pwd == password:
-			print "\n\033[1;34mHello Welcome To Ancurtotal Spammer Tools", 
+			print "\n\033[1;34mHello Welcome To Ancurtotal Hacking Wifi Tools", 
 			sys.exit()
 
 		else:
